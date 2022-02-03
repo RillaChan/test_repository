@@ -16,6 +16,10 @@ class Calculator extends Model
         DIVIDE = 4;
 
     // this comment was not here hahahahahaha
+    
+    //troll conflict
+    
+    //troll conflict number 2
     public function add(int $a, int $b): int
     {
         return $a + $b;
