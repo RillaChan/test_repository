@@ -17,9 +17,15 @@ class Calculator extends Model
 
     // this comment was not here hahahahahaha
 
+
     //2nd message from here
 
     //3rd message from here
+    
+    //troll conflict
+    
+    //troll conflict number 2
+
     public function add(int $a, int $b): int
     {
         return $a + $b;
