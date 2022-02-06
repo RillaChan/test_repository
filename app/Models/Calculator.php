@@ -26,7 +26,9 @@ class Calculator extends Model
     
     //troll conflict number 2
 
-    
+
+    //hello
+
 
     public function add(int $a, int $b): int
     {
